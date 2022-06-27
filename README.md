@@ -6,136 +6,74 @@
 <br />
 <table>
   <tbody>
-    <tr>
-      <td align="center" width="20%">
-        <span
-          ><b><center>Node.js</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Express</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Python</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Django</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      <td width="25%" align="center">
+        <span><strong>ReactJS</strong> </span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Boostrap</strong> </span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
       </td>
     </tr>
-
-    <tr>
-      <td align="center" width="20%">
-        <span
-          ><b><center>React</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Python</strong> </span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>React Native</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+      <td width="25%" align="center">
+        <span><strong>Django</strong> </span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJS</span><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       </td>
     </tr>
-
-    <tr>
-      <td align="center" width="20%">
-        <span
-          ><b><center>Html5</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>PostgreSQL</strong></span
+        ><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Css3</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      <td width="25%" align="center">
+        <span><strong>MySQL</strong></span
+        ><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>JavaScript</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Bootstrap</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Tailwind</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      <td width="25%" align="center">
+        <span><strong>Mongo DB</strong></span
+        ><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
       </td>
     </tr>
-
-    <tr>
-      <td align="center" width="20%">
-        <span
-          ><b><center>MySql</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>GIT</strong></span
+        ><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
       </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>MongoDB</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>PostGres</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" width="20%">
-        <span
-          ><b><center>Git</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>GitHub</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-
-      <td align="center" width="20%">
-        <span
-          ><b><center>Visual Studio Code</center></b></span
-        >
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      <td width="25%" align="center">
+        <span><strong>GitHub</strong></span
+        ><br /><br /><br />
+        <img height="64px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
       </td>
     </tr>
   </tbody>
 </table>
+<hr />
 
 
 <a href="https://github.com/sidneimtt">
@@ -154,7 +92,6 @@
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 -->
 
 ⭐️ From [sidneimtt](https://github.com/sidneimtt)

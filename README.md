@@ -7,59 +7,59 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-      </td>      
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
-      </td>
-      <td width="25%" align="center">
-        <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
-      </td>
-      <td width="25%" align="center">
-        <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" />
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <br /><br />
-        <img height="64px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
+      </td>
+      <td width="15%" align="center">
+        <br /><br />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="15%" align="center">
+        <br /><br />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+      </td>
+      <td width="15%" align="center">
+        <br /><br />
+        <img height="44px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
       </td>
     </tr>
   </tbody>

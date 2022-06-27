@@ -20,98 +20,140 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<br />
 <table>
   <tbody>
-    <!-- linha 1 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>NODE.JS</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+    <tr>
+      <td align="center" width="20%">
+        <span
+          ><b><center>Node.js</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg" />
       </td>
-      <td width="15%" align="center">
-        <span>EXPRESS</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Express</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg" />
       </td>
-      <td width="15%" align="center">
-        <span>PYTHON</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Python</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
       </td>
-      <td width="15%" align="center">
-        <span><strong>DJANGO</strong> </span><br /><br />
-        <img height="45px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Django</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
       </td>
     </tr>
 
-    <!-- linha 2 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>REACT</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+    <tr>
+      <td align="center" width="20%">
+        <span
+          ><b><center>React</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg" />
       </td>
-      <td width="15%" align="center">
-        <span>REACT NATIVE</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-      </td>
-    </tr>
-    <!-- linha 3 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span>JAVASCRIPT</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span><strong>BOOTSTRAP</strong> </span><br /><br />
-        <img height="45px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-      </td>
-      <td width="15%" align="center">
-        <span><strong>TAILWIND</strong> </span><br /><br />
-        <img height="45px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-      </td>
-    </tr>
-    <!-- linha 4 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>MYSQL</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span>MONGODB</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span>POSTGRES</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-    </tr>
-    <!-- linha 5 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>GIT</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-      </td>
-      <td width="15%" align="center">
-        <span>GITHUB</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>React Native</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg" />
       </td>
     </tr>
 
-    <!-- linha 6 -->
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>VISUAL STUDIO CODE</span><br /><br />
-        <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+    <tr>
+      <td align="center" width="20%">
+        <span
+          ><b><center>Html5</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Css3</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>JavaScript</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Bootstrap</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Tailwind</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" width="20%">
+        <span
+          ><b><center>MySql</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>MongoDB</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>PostGres</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" width="20%">
+        <span
+          ><b><center>Git</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>GitHub</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+      </td>
+
+      <td align="center" width="20%">
+        <span
+          ><b><center>Visual Studio Code</center></b></span
+        >
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" />
       </td>
     </tr>
   </tbody>
 </table>
+
 
 <a href="https://github.com/sidneimtt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneimtt&show_icons=true" />

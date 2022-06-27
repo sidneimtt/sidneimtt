@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <!-- linha 1 -->
-    <tr valign="top">
+    <tr >
       <td width="15%" align="center">
         <span>NODE.JS</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />

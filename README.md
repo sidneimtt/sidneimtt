@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <!-- linha 1 -->
-    <tr >
+    <tr valign="top">
       <td width="15%" align="center">
         <span>NODE.JS</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     </tr>
 
     <!-- linha 2 -->
-    <tr>
+    <tr valign="top">
       <td width="15%" align="center">
         <span>REACT</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <!-- linha 3 -->
-    <tr>
+    <tr valign="top">
       <td width="15%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <!-- linha 4 -->
-    <tr>
+    <tr valign="top">
       <td width="15%" align="center">
         <span>MYSQL</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/html-5.svg" />
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <!-- linha 5 -->
-    <tr>
+    <tr valign="top">
       <td width="15%" align="center">
         <span>GIT</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/css-3.svg" />
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
     </tr>
 
     <!-- linha 6 -->
-    <tr>
+    <tr valign="top">
       <td width="15%" align="center">
         <span>VISUAL STUDIO CODE</span><br /><br />
         <img height="45px" src="https://cdn.svgporn.com/logos/javascript.svg" />

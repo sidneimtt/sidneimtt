@@ -112,12 +112,13 @@ class sidneiMtt:
 <br />
 
 ##
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
 
+<!--
+<h3>🤝🏻 &nbsp;Connect with Me</h3>
 <p>
   <a href="https://sidnei-portifolio-website.netlify.app" title="View Link"  target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www-blue?style=flat-square&logo=google-chrome" /></a>
-  <a href="https://www.linkedin.com/in/AVS1508/" title="View Link"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:sidneim@hotmail.com" title="View Link"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sidneim@hotmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sidnei-silva-6a1687238/" title="View Link"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sidnei-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:csamsidney@gmail.com" title="View Link"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-csamsidney@gmail.com-blue?style=flat-square&logo=gmail" /></a>
 </p>
 <div>
 <table>
@@ -137,14 +138,15 @@ class sidneiMtt:
    </tbody>
  </table>
  </div>
+-->
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <br /><br />
 
-<!--
+<!-- gif git & estro
 <p align="center">
 <b>Already Pinned Down for you sire!</b></br>
 <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
-
 <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px">
 -->
 

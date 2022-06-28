@@ -114,27 +114,29 @@ class sidneiMtt:
 ##
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 
-<p align="center">
-  <a href="https://sidnei-portifolio-website.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www-blue?style=flat-square&logo=google-chrome" /></a>
-  <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:sidneim@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidneim@hotmail.com-blue?style=flat-square&logo=gmail" /></a>
+<p>
+  <a href="https://sidnei-portifolio-website.netlify.app" title="View Link"  target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://www.linkedin.com/in/AVS1508/" title="View Link"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:sidneim@hotmail.com" title="View Link"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sidneim@hotmail.com-blue?style=flat-square&logo=gmail" /></a>
 </p>
+<div>
 <table>
     <tbody>
       <tr valign="top">
         <td align="center">
-            <a href="https://benyou.me">
+            <a href="href="https://sidnei-portifolio-website.netlify.app" title="View Link"  target="_blank">
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <br>
-        <strong>Visit my personal website </strong>
+            <br />
+            <strong>Visit my personal website </strong>
         </td>
       </tr>
    </tbody>
- </table> 
+ </table>
+ </div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <br /><br />
 
 <!--

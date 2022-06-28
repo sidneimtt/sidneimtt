@@ -1,6 +1,7 @@
 <h2> Hey there! I'm Sidnei.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+##
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br />
@@ -64,12 +65,11 @@
         </td>
       </tr>
     </tbody>
-  </table>
-  <hr />
+  </table>  
 </div>
 
 ##
-
+<!--
 <div style="display: inline_block">
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -80,11 +80,9 @@
   <img align="center" alt="nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="postgre" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="github" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />  
 </div>
-
+-->
 ##
 
 <div>
@@ -97,6 +95,7 @@
 
 ##
 
+<!--
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
@@ -106,6 +105,7 @@
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <br /><br />
+-->
 
 ⭐️ From [sidneimtt](https://github.com/sidneimtt)
 

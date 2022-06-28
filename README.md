@@ -1,8 +1,26 @@
 <h2> Hey there! I'm Sidnei.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+class sidneiMtt:
 
+    def __init__(self):
+        self.username = 'sidneiMtt'
+        self.name = 'Sidnei Motta'
+        self.web = 'https://sidnei-portifolio-website.netlify.app/'
+        self.twitter = 'https://twitter.com/sidmottasilva'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'Django', 'NodeJS' ],
+            'database': ['PostgreSQL', 'MySQL','Mongo DB'],
+            'tools': ['GIT', 'GitHub'],
+            'misc': ['Firebase', 'GNU/Linux']
+        }
+        
+    def __str__(self):
+        return self.name
+    if __name__ == '__main__':
+    me = sidneiMtt()
+    
 ##
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br />
 <div>
@@ -94,19 +112,41 @@
 <br />
 
 ##
-
-<!--
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://sidnei-portifolio-website.netlify.app"><img alt="Website" src="https://sidnei-portifolio-website.netlify.app-blue?style=flat-square&logo=google-chrome" /></a>
   <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:sidneim@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidneim@hotmail.com-blue?style=flat-square&logo=gmail" /></a>
 </p>
-
+<table>
+    <tbody>
+      <tr valign="top">
+        <td align="center">
+            <a href="https://benyou.me">
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <br>
+        <strong>Visit my personal website </strong>
+        </td>
+      </tr>
+   </tbody>
+ </table> 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <br /><br />
+
+<!--
+<p align="center">
+<b>Already Pinned Down for you sire!</b></br>
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
+
+<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px">
 -->
 
 ⭐️ From [sidneimtt](https://github.com/sidneimtt)
+
 
 

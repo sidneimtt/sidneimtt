@@ -68,6 +68,8 @@
   <hr />
 </div>
 
+##
+
 <div style="display: inline_block">
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -83,14 +85,17 @@
   <img align="center" alt="github" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>
 
+##
+
 <div>
   <a href="https://github.com/sidneimtt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneimtt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneimtt&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
-
 <br />
+
+##
 
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 

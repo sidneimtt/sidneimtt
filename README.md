@@ -23,7 +23,7 @@ class sidneiMtt:
 ##
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br />
-<div>
+<div style="background-color:DodgerBlue;">
   <table>
     <tbody>
       <tr valign="top">
@@ -87,58 +87,11 @@ class sidneiMtt:
 </div>
 
 ##
-<!--
-<div style="display: inline_block">
-  <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="css3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="postgre" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="mongodb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />  
-</div>
--->
-##
-
-<div>
-  <a href="https://github.com/sidneimtt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneimtt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneimtt&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-<br />
 
 ##
 
-<!--
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
-<p>
-  <a href="https://sidnei-portifolio-website.netlify.app" title="View Link"  target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www-blue?style=flat-square&logo=google-chrome" /></a>
-  <a href="https://www.linkedin.com/in/sidnei-silva-6a1687238/" title="View Link"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sidnei-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:csamsidney@gmail.com" title="View Link"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-csamsidney@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-</p>
-<div>
-<table>
-    <tbody>
-      <tr valign="top">
-        <td align="center">
-            <a href="href="https://sidnei-portifolio-website.netlify.app" title="View Link"  target="_blank">
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <br />
-            <strong>Visit my personal website </strong>
-        </td>
-      </tr>
-   </tbody>
- </table>
- </div>
--->
+##
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <br /><br />
 
